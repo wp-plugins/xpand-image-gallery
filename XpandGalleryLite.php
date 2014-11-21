@@ -3,7 +3,7 @@
 Plugin Name: Xpand Gallery for Wordpress (Lite Version)
 Plugin URI: http://hey.com.uy/
 Description: Dynamic Image Gallery
-Author: Matias Mouta, Daniel Pereyra
+Author: Hey Development
 Version: 0.9.2
 Author URI: http://dev.hey.uy/
 */
