@@ -44,7 +44,7 @@ Aside from the lite version options you can have advanced options such as:
 
 == Installation ==
 
-1. Upload `xpand-gallery.zip` to the `/wp-content/plugins/` directory
+1. Upload the `xpand-image-gallery` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to 'Settings' -> 'Xpand Gallery' to configure the plugin 
 4. Enjoy using the plugin 
