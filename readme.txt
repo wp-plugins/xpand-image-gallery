@@ -32,7 +32,7 @@ Aside from the lite version options you can have advanced options such as:
 
 * Widget ready: The plugin adds a useful widget area, where you can place any widget you want. 
 * Styling options: Background color, image title and description.
-* You can see it in action [here](http://dev.hey.uy/xpand-gallery-pro/ "Xpand Gallery Pro") 
+* You can see it in action [here](http://dev.hey.uy/xpand-gallery-for-wordpress/ "Xpand Gallery Pro") 
 
 
 **Credits:**
@@ -63,9 +63,13 @@ Aside from the lite version options you can have advanced options such as:
 
 * No, it replaces Wordpress native gallery making it compatible with your existing galleries or any gallery you add.
 
+= Can I have multiple galleries on the same page/post? =
+
+* No, Xpand Gallery doesn´t support more than one gallery per page/post yet. Multi-gallery support is coming soon!
+
 = Is there a Pro version? =
 
-* Yes it is you can learn more [here](http://dev.hey.uy/xpand-gallery-pro/ "Xpand Gallery Pro") 
+* Yes it is you can learn more [here](http://dev.hey.uy/xpand-gallery-for-wordpress/ "Xpand Gallery Pro") 
 
 = How can I say thanks? =
 
