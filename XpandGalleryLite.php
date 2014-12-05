@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Xpand Gallery for Wordpress (Lite Version)
-Plugin URI: http://hey.com.uy/
+Plugin URI: https://wordpress.org/plugins/xpand-image-gallery/
 Description: Dynamic Image Gallery
 Author: Hey Development
 Version: 0.9.2
