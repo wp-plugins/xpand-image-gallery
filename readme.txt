@@ -4,7 +4,7 @@ Donate link: http://dev.hey.uy/donate/
 Tags: gallery, grid, xpand, expandable, images, responsive, photo gallery, image gallery, grid gallery
 Requires at least: 3.5.1
 Tested up to: 4.0
-Stable tag: 0.9.2
+Stable tag: 0.9.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
