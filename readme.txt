@@ -16,7 +16,7 @@ The greatest expandable gallery for your wordpress website, seamless visualizati
 
 Inspired by Google´s image gallery we have created a gallery for Wordpress that replaces the standard with one that gives you the ability to open images inside the content without the need to load a new page or use a modal box. This improves user experience and brings dynamism, speed and usability to your site.
 
-You can see it working in our [live DEMO](http://dev.hey.uy/xpand-gallery-lite-demo/ "Xpand Gallery Lite Demo")
+* You can see it working in our [live DEMO](http://dev.hey.uy/xpand-gallery-lite-demo/ "Xpand Gallery Lite Demo")
 
 **Features:**
 
