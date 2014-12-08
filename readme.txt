@@ -91,6 +91,9 @@ Aside from the lite version options you can have advanced options such as:
 
 == Changelog ==
 
+= 0.9.3 =
+* Fixed auto-scroll on Webkit browsers
+
 = 0.9.2 =
 * Added 'settings' link to wordpress plugins page
 * Changed styles for consistency
