@@ -4,7 +4,7 @@ Plugin Name: Xpand Gallery for Wordpress (Lite Version)
 Plugin URI: https://wordpress.org/plugins/xpand-image-gallery/
 Description: Dynamic Image Gallery
 Author: Hey Development
-Version: 0.9.2
+Version: 1.0.1
 Author URI: http://dev.hey.uy/
 */
 
@@ -74,6 +74,10 @@ function xpand_gallery_options() {
                 <input type="radio" name="xpgalWidgetPos" value="bottom" disabled />
                 <span>Widgets at the bottom.</span><br />
                 <br>
+                <input type="checkbox" name="xpgalDefaultOpen" value="1" disabled>
+                <span>Start with first image preview open.</span><br>
+                <p style="font-size:11px; margin:0 5px; padding: 0 15% 0 18px; color:#888;">This option leaves the first image in the gallery open by default when the page is loaded.</p>
+                <br>
                 </div>
                 <p style="text-align: right;">*Advanced options are only available in the PRO version.</p>
                 <hr>
@@ -100,7 +104,7 @@ $plugin = plugin_basename(__FILE__);
 add_filter("plugin_action_links_$plugin", 'xpand_gallery_settings_link' );
 
 function carga_scripts() {
-	wp_enqueue_style( 'style', plugins_url('/css/style.css',__FILE__) );
+	wp_enqueue_style( 'xpgal_style', plugins_url('/css/style.css',__FILE__) );
 	wp_enqueue_script('Modernizr', plugins_url('/js/modernizr.custom.js',__FILE__));
     wp_enqueue_script('grid', plugins_url('/js/grid.js',__FILE__), array( 'jquery', 'Modernizr' ), '', false );
 	}

@@ -3,8 +3,8 @@ Contributors: heyestudio
 Donate link: http://dev.hey.uy/donate/
 Tags: gallery, grid, xpand, expandable, images, responsive, photo gallery, image gallery, grid gallery
 Requires at least: 3.5.1
-Tested up to: 4.0
-Stable tag: 0.9.3
+Tested up to: 4.1.1
+Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -30,10 +30,11 @@ Inspired by Google´s image gallery we have created a gallery for Wordpress that
 
 **Want the Xpand Gallery Pro?**
 
-Aside from the lite version options you can have advanced options such as:
+Aside from the lite version options you can have advanced features such as:
 
-* Widget ready: The plugin adds a useful widget area, where you can place any widget you want. 
-* Styling options: Background color, image title and description.
+* Widget ready: The plugin adds a useful widget area, where you can place any content you want.
+* Support for multiple galleries on the same page. 
+* Many styling and functionality options to customize the plugin to your needs.
 * You can see it in action [here](http://dev.hey.uy/xpand-gallery-for-wordpress/ "Xpand Gallery Pro") 
 
 
@@ -55,7 +56,7 @@ Aside from the lite version options you can have advanced options such as:
 
 = Is the gallery Flash based? =
 
-* No, Xpand Gallery uses HTML5 and JavaScript (jQuery) to display its content supporting a wide range of devices
+* No, Xpand Gallery uses HTML5 and JavaScript (jQuery) to display its content supporting a wide range of devices.
 
 = Are the galleries mobile friendly? =
 
@@ -67,7 +68,7 @@ Aside from the lite version options you can have advanced options such as:
 
 = Can I have multiple galleries on the same page/post? =
 
-* No, Xpand Gallery doesn´t support more than one gallery per page/post yet. Multi-gallery support is coming soon!
+* Currently this feature is only supported on the Pro version of the plugin, for more information visit the link below.
 
 = Is there a Pro version? =
 
@@ -75,7 +76,7 @@ Aside from the lite version options you can have advanced options such as:
 
 = How can I say thanks? =
 
-* Just recommend our plugin to your friends! or buy a MONO or MULTI license for Xpand Gallery Pro. You can also buy us a coffee
+* If you found this plugin helpful please take some time to rate it! Also, if you want the extra functionality, you can buy a MONO or MULTI license for Xpand Gallery Pro. Thanks for your support!
 
 = Aditional information =
 
@@ -90,6 +91,10 @@ Aside from the lite version options you can have advanced options such as:
 
 
 == Changelog ==
+
+= 1.0.1 =
+* Fixed compatibility issues with some themes.
+* Several bug fixes.
 
 = 0.9.3 =
 * Fixed auto-scroll on Webkit browsers
